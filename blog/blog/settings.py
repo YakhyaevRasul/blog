@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     # end of the third party
 
     # custom installed apps
-    'users',
     'posts',
     # end of the cus ins apps
 ]
